@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "videos": [
+    {
+      "id": "DH-GRW-23",
+      "order": 1,
+      "title": "Kullanıcıyı hangi noktada ücretli üyeliğe geçirmelisiniz?",
+      "durationSeconds": 64.5,
+      "autoPublish": false,
+      "path": "videos/DH-GRW-23"
+    }
+  ]
+}

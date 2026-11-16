@@ -1,0 +1,107 @@
+1
+00:00:00,080 --> 00:00:03,480
+Kullanıcınıza daha ilk gün ödeme ekranı gösterdiniz,
+
+2
+00:00:03,360 --> 00:00:04,360
+kaçtı.
+
+3
+00:00:04,200 --> 00:00:07,160
+Başka bir kullanıcı aylarca bedava kullandı,
+
+4
+00:00:07,000 --> 00:00:08,600
+yine ödeme yapmadı.
+
+5
+00:00:08,440 --> 00:00:10,600
+Ücretli teklif ne zaman sunulmalı?
+
+6
+00:00:10,880 --> 00:00:13,480
+Bir fotoğraf düzenleme uygulaması düşünün.
+
+7
+00:00:13,320 --> 00:00:15,880
+İlk gün tek fotoğrafını düzeltmek isteyen biri
+
+8
+00:00:15,760 --> 00:00:16,520
+var.
+
+9
+00:00:16,347 --> 00:00:19,480
+Bir de her hafta onlarca ürün fotoğrafı hazırlayan
+
+10
+00:00:19,440 --> 00:00:21,320
+küçük bir mağaza sahibi.
+
+11
+00:00:21,160 --> 00:00:23,960
+İkisi aynı ürüne giriyor, ama ihtiyaçlarının
+
+12
+00:00:23,840 --> 00:00:25,240
+derinliği farklı.
+
+13
+00:00:25,120 --> 00:00:28,040
+Ücretli teklifin doğru zamanı, kullanıcının
+
+14
+00:00:27,960 --> 00:00:31,160
+ek faydayı gerçekten hissettiği an olabilir.
+
+15
+00:00:31,040 --> 00:00:34,360
+Örneğin tek görsel düzenlemek ücretsizdir; toplu
+
+16
+00:00:34,240 --> 00:00:37,720
+düzenleme, marka şablonları veya ekip paylaşımı
+
+17
+00:00:37,560 --> 00:00:39,080
+ücretli olabilir.
+
+18
+00:00:38,960 --> 00:00:41,640
+Bunu sinema salonunun girişinde patlamış mısır
+
+19
+00:00:41,560 --> 00:00:45,080
+satmaya benzetmeyin; daha çok müşterinin ihtiyacını
+
+20
+00:00:44,960 --> 00:00:47,960
+fark ettiği anda doğru seçeneği göstermek olarak
+
+21
+00:00:47,840 --> 00:00:48,760
+düşünün.
+
+22
+00:00:48,640 --> 00:00:51,160
+Çok erken teklif güveni zedeler.
+
+23
+00:00:51,000 --> 00:00:53,640
+Çok geç teklif maliyeti büyütür.
+
+24
+00:00:53,560 --> 00:00:56,520
+Hangi davranıştan sonra ödeme olasılığı artıyor,
+
+25
+00:00:56,440 --> 00:00:57,240
+ölçün.
+
+26
+00:00:57,120 --> 00:01:00,200
+Ücretli plana geçişi baskıyla değil, kullanıcı
+
+27
+00:01:00,080 --> 00:01:02,920
+için görünür bir değer farkıyla tasarlayın.

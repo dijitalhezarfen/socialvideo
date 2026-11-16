@@ -1,0 +1,51 @@
+{
+  "schema": 1,
+  "id": "DH-GRW-23",
+  "order": 1,
+  "title": "Kullanıcıyı hangi noktada ücretli üyeliğe geçirmelisiniz?",
+  "durationSeconds": 64.5,
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "subtitles": "subtitles.tr.srt",
+  "autoPublish": false,
+  "publishAt": null,
+  "platforms": {
+    "youtube": {
+      "title": "Kullanıcıyı Ücretli Üyeliğe Ne Zaman Geçirmelisiniz? Doğru Teklif Zamanı",
+      "description": "Kullanıcıya ödeme ekranını çok erken gösterirseniz kaçar, çok geç gösterirseniz bedava kullanan kullanıcı hiç ödemez. Peki ücretli teklif tam olarak ne zaman sunulmalı?\n\nBu videoda:\n• Kullanıcının ek faydayı gerçekten hissettiği an neden doğru zaman?\n• Neyi ücretsiz, neyi ücretli yapmalısınız? (tek işlem ücretsiz, toplu işlem, marka şablonları ve ekip paylaşımı ücretli)\n• Çok erken teklif güveni, çok geç teklif maliyeti nasıl büyütür?\n• Hangi kullanıcı davranışından sonra ödeme olasılığı artıyor, bunu nasıl ölçersiniz?\n\nÖzet: Ücretli plana geçişi baskıyla değil, kullanıcı için görünür bir değer farkıyla tasarlayın.\n\nNot: Videodaki örnekler kurgusaldır. Seslendirme yapay zekâ ile üretilmiş ses klonudur.\n\n#Shorts #Girişimcilik #Pazarlama #FiyatlandırmaStratejisi",
+      "tags": [
+        "ücretli üyelik",
+        "freemium",
+        "fiyatlandırma stratejisi",
+        "ödeme ekranı",
+        "abonelik modeli",
+        "girişimcilik",
+        "dijital pazarlama",
+        "kullanıcı dönüşümü",
+        "ürün büyümesi",
+        "SaaS fiyatlandırma",
+        "Dijital Hezarfen"
+      ],
+      "privacyStatus": "public",
+      "madeForKids": false,
+      "containsSyntheticMedia": true
+    },
+    "instagram": {
+      "caption": "Ödeme ekranını ilk gün gösterdiniz, kullanıcı kaçtı. Aylarca bedava kullanan da hiç ödemedi. Peki ücretli teklif ne zaman sunulmalı? 💡\n\n✅ Kullanıcı ek faydayı gerçekten hissettiği anda\n✅ Tek işlem ücretsiz; toplu işlem, marka şablonları, ekip paylaşımı ücretli\n✅ Çok erken teklif güveni, çok geç teklif maliyeti büyütür\n✅ Hangi davranıştan sonra ödeme arttığını ölçün\n\nÜcretli plana geçişi baskıyla değil, görünür bir değer farkıyla tasarlayın.\n\nKaydet, ürününü fiyatlarken tekrar bak. 📌\n\n#girişimcilik #pazarlama #fiyatlandırma #freemium #abonelik #ürünyönetimi #dijitalhezarfen",
+      "shareToFeed": true,
+      "isAiGenerated": true
+    },
+    "facebook": {
+      "description": "Kullanıcıyı hangi noktada ücretli üyeliğe geçirmelisiniz? Çok erken teklif güveni zedeler, çok geç teklif maliyeti büyütür. Doğru zaman, kullanıcının ek faydayı gerçekten hissettiği andır. Ücretli plana geçişi baskıyla değil, görünür bir değer farkıyla tasarlayın."
+    }
+  },
+  "production": {
+    "voice": "ElevenLabs eleven_v4 / Kaan Yeni",
+    "syntheticVoice": true,
+    "audioSha256": "38337c013e451759e98c883f8e2b72f3a3525de13af8c0ebc1f2a7467f2e775d",
+    "videoSha256": "24410bf6cb4e7bdb0c1038046bc6d790cb75ea50c978957a89be657895594bfd",
+    "videoBytes": 24535153,
+    "notionPage": "https://app.notion.com/41a9e61e50d2813eb0d3dd7a7d95ea79",
+    "producedAt": "2026-11-16T22:14:23.207Z"
+  }
+}
