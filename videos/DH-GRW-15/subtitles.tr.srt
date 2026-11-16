@@ -1,0 +1,99 @@
+1
+00:00:00,080 --> 00:00:01,720
+Bir SaaS şirketiniz var.
+
+2
+00:00:01,680 --> 00:00:04,760
+On bin kişi kullanıyor; sadece küçük bir bölümü
+
+3
+00:00:04,600 --> 00:00:05,480
+ödeme yapıyor.
+
+4
+00:00:05,680 --> 00:00:09,080
+Yatırımcı soruyor: “Diğerleri neden bedava geziyor?”
+
+5
+00:00:09,200 --> 00:00:11,240
+Bir mahalle spor salonu düşünün.
+
+6
+00:00:11,200 --> 00:00:13,320
+Açık bir tanıtım günü düzenlediniz.
+
+7
+00:00:13,280 --> 00:00:16,120
+Yüz kişi geldi, herkes üyelik satın almadı.
+
+8
+00:00:16,320 --> 00:00:19,400
+Ama bazıları arkadaşını getirdi, bazıları bir
+
+9
+00:00:19,280 --> 00:00:20,520
+ay sonra kayıt oldu.
+
+10
+00:00:20,640 --> 00:00:23,840
+Kapıyı açmak yeni insanları tanımanızı sağladı.
+
+11
+00:00:23,920 --> 00:00:26,920
+Dijital üründe ücretsiz kullanıcılar ürününüzü
+
+12
+00:00:26,800 --> 00:00:29,960
+öğrenebilir, başkalarına önerebilir ve zamanla
+
+13
+00:00:29,840 --> 00:00:31,080
+ödeme yapabilir.
+
+14
+00:00:31,120 --> 00:00:34,680
+Fakat onların sunucu, depolama ve destek maliyetleri
+
+15
+00:00:34,560 --> 00:00:35,640
+de vardır.
+
+16
+00:00:35,480 --> 00:00:38,280
+Bu yüzden “Çok ücretsiz kullanıcım var” tek
+
+17
+00:00:38,160 --> 00:00:40,120
+başına başarı ölçüsü değil.
+
+18
+00:00:40,000 --> 00:00:43,400
+Kaçı gerçekten değer görüyor, kaçı geri geliyor,
+
+19
+00:00:43,280 --> 00:00:46,680
+kaçı ücretliye geçiyor, kaç yeni kullanıcı getiriyor
+
+20
+00:00:46,640 --> 00:00:48,200
+ve ne kadara mal oluyor?
+
+21
+00:00:48,709 --> 00:00:51,880
+Bazen bedava katman güçlü bir dağıtım kanalıdır.
+
+22
+00:00:51,760 --> 00:00:54,280
+Bazen de ürün ekonomisini zayıflatır.
+
+23
+00:00:54,520 --> 00:00:57,320
+Bedava kullanıcıları ne otomatik müşteri sayın
+
+24
+00:00:57,360 --> 00:00:59,160
+ne de yük olarak görün.
+
+25
+00:00:59,040 --> 00:01:02,360
+Onların davranışını ve yarattıkları değeri ölçün.

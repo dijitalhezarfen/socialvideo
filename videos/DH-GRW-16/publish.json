@@ -1,0 +1,51 @@
+{
+  "schema": 1,
+  "id": "DH-GRW-16",
+  "order": 3,
+  "title": "Kayıt olan 100 kişiden 90'ı neden uygulamanızı bir daha açmıyor?",
+  "durationSeconds": 61.4,
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "subtitles": "subtitles.tr.srt",
+  "autoPublish": false,
+  "publishAt": null,
+  "platforms": {
+    "youtube": {
+      "title": "Kayıt Olan 100 Kişiden 90'ı Uygulamayı Neden Bir Daha Açmıyor? Retention",
+      "description": "Uygulamanıza 100 kişi kayıt oldu ama ertesi hafta yalnızca 10'u geri döndü. Kayıt sayısını kutlamak doğru mu, yoksa asıl sorun başka bir yerde mi?\n\nBu videoda:\n• Retention (kullanıcıyı geri getirme) nedir ve kayıt sayısından neden daha önemlidir?\n• \"İlk değer anı\" yaşanmadan kullanıcı neden uygulamayı kapatır? (12 soruluk tercih ekranı örneği)\n• Uzun karşılama süreci, raflara ulaşmadan form doldurtan mağazaya nasıl benzer?\n• İlk oturumda gerçek sonuç vermek, ilk gün / ilk hafta / sonraki haftalarda geri dönüşü ölçmek ve kaybolanlara neden ayrıldıklarını sormak\n\nÖzet: Kayıt ekranından geçen kişi müşteri değildir; fayda görüp yeniden gelen kişi sağlıklı büyümenin başlangıcıdır.\n\nNot: Videodaki örnekler kurgusaldır. Seslendirme yapay zekâ ile üretilmiş ses klonudur.\n\n#Shorts #Girişimcilik #Pazarlama #Retention",
+      "tags": [
+        "retention",
+        "kullanıcı elde tutma",
+        "uygulama büyümesi",
+        "ilk değer anı",
+        "onboarding",
+        "kullanıcı geri dönüşü",
+        "mobil uygulama",
+        "girişimcilik",
+        "dijital pazarlama",
+        "ürün yönetimi",
+        "Dijital Hezarfen"
+      ],
+      "privacyStatus": "public",
+      "madeForKids": false,
+      "containsSyntheticMedia": true
+    },
+    "instagram": {
+      "caption": "Uygulamanıza 100 kişi kayıt oldu, ertesi hafta yalnızca 10'u geri döndü. Pazarlama ekibi kayıt sayısını kutluyor. Sizce kutlanacak şey bu mu? 🤔\n\n✅ Sorun çoğu zaman retention: kullanıcı geri gelmiyor\n✅ İlk değer anı yaşanmadan uzun karşılama ekranı kullanıcıyı kaçırır\n✅ Önce ilk oturumda gerçek bir sonuç verin\n✅ İlk gün, ilk hafta ve sonraki haftalarda geri dönüşü ölçün\n✅ Kaybolanlara neden ayrıldıklarını sorun\n\nKayıt ekranından geçen kişi müşteri değildir. Fayda gören ve yeniden gelen kişi sağlıklı büyümenin başlangıcıdır.\n\nKaydet, onboarding akışını gözden geçirirken tekrar bak. 📌\n\n#girişimcilik #pazarlama #retention #onboarding #uygulamageliştirme #ürünyönetimi #dijitalhezarfen",
+      "shareToFeed": true,
+      "isAiGenerated": true
+    },
+    "facebook": {
+      "description": "Kayıt olan 100 kişiden 90'ı neden uygulamanızı bir daha açmıyor? Çoğu zaman sorun retention ve yaşanmayan ilk değer anıdır. Önce ilk oturumda gerçek bir sonuç verin, ilk gün, ilk hafta ve sonraki haftalarda geri dönüşü ölçün, kaybolanlara neden ayrıldıklarını sorun. Kayıt ekranından geçen kişi müşteri değildir."
+    }
+  },
+  "production": {
+    "voice": "ElevenLabs eleven_v4 / Kaan Yeni",
+    "syntheticVoice": true,
+    "audioSha256": "9744bf7278b28e9be1ead6d7900b2c1a162beb4c92164ad8a58593db962578f3",
+    "videoSha256": "2621168904b3cdf1ab2a5cb8e53ad00db03a4abb2ae5c39b176f8f38bc1401e9",
+    "videoBytes": 25302346,
+    "notionPage": "https://app.notion.com/p/41a9e61e50d28133a2f1c055d0acbcdd",
+    "producedAt": "2026-11-16T23:05:16.138Z"
+  }
+}

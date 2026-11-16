@@ -1,0 +1,51 @@
+{
+  "schema": 1,
+  "id": "DH-GRW-15",
+  "order": 8,
+  "title": "Ücretsiz kullanıcılar gerçekten zarar mı, yoksa gelecekteki müşterileriniz mi?",
+  "durationSeconds": 64,
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "subtitles": "subtitles.tr.srt",
+  "autoPublish": false,
+  "publishAt": null,
+  "platforms": {
+    "youtube": {
+      "title": "Ücretsiz Kullanıcılar Zarar mı, Gelecekteki Müşteri mi? Freemium Ölçümü",
+      "description": "On bin kullanıcınız var ama yalnızca küçük bir kısmı ödüyor. Diğerleri gerçekten zarar mı, yoksa gelecekteki müşterileriniz mi?\n\nBu videoda:\n• Mahalle spor salonu örneğiyle ücretsiz deneyen kişilerin değeri\n• Ücretsiz kullanıcının öğrenmesi, önermesi ve zamanla ödeme yapması\n• Sunucu, depolama ve destek maliyetini unutmamak\n• Beş ölçü: kaçı değer görüyor, kaçı geri geliyor, kaçı ücretliye geçiyor, kaç yeni kullanıcı getiriyor, ne kadara mal oluyor\n• Bedava katmanın bazen dağıtım kanalı, bazen ekonomiyi zayıflatan bir yük olması\n\nÖzet: Ücretsiz kullanıcıyı ne otomatik müşteri sayın ne yük; davranışını ve yarattığı değeri ölçün.\n\nNot: Videodaki örnekler kurgusaldır. Seslendirme yapay zekâ ile üretilmiş ses klonudur.\n\n#Shorts #Girişimcilik #Pazarlama #Freemium",
+      "tags": [
+        "ücretsiz kullanıcı",
+        "freemium",
+        "bedava katman",
+        "SaaS",
+        "fiyatlandırma",
+        "kullanıcı dönüşümü",
+        "müşteri edinme",
+        "girişimcilik",
+        "dijital pazarlama",
+        "ürün büyümesi",
+        "Dijital Hezarfen"
+      ],
+      "privacyStatus": "public",
+      "madeForKids": false,
+      "containsSyntheticMedia": true
+    },
+    "instagram": {
+      "caption": "On bin kullanıcınız var, küçük bir kısmı ödüyor. Diğerleri zarar mı, gelecekteki müşteriler mi? 🤔\n\n✅ Ücretsiz kullanıcı öğrenir, önerir, zamanla ödeyebilir\n⚠️ Ama sunucu, depolama ve destek maliyeti vardır\n✅ Ölçün: değer görüyor mu, geri geliyor mu, ücretliye geçiyor mu, yeni kullanıcı getiriyor mu, ne kadara mal oluyor?\n✅ Bedava katman bazen dağıtım kanalı, bazen ekonomiyi zayıflatır\n\nOnları ne otomatik müşteri sayın ne yük. Davranışı ve yarattığı değeri ölçün.\n\nKaydet, ücretsiz planını tasarlarken tekrar bak. 📌\n\n#girişimcilik #pazarlama #freemium #saas #müşteriedinme #dijitalhezarfen",
+      "shareToFeed": true,
+      "isAiGenerated": true
+    },
+    "facebook": {
+      "description": "Ücretsiz kullanıcılar gerçekten zarar mı, yoksa gelecekteki müşterileriniz mi? Onlar öğrenebilir, önerebilir ve zamanla ödeme yapabilir; ama sunucu, depolama ve destek maliyetleri de vardır. Kaçı değer görüyor, kaçı geri geliyor, kaçı ücretliye geçiyor, kaç yeni kullanıcı getiriyor ve ne kadara mal oluyor? Ücretsiz kullanıcıyı ne otomatik müşteri sayın ne yük; davranışını ve yarattığı değeri ölçün."
+    }
+  },
+  "production": {
+    "voice": "ElevenLabs eleven_v4 / Kaan Yeni",
+    "syntheticVoice": true,
+    "audioSha256": "5bcf9b81ec4e7fbfe28c342d10f6260e78bb0d5a8a4ac742ff844d98d3296705",
+    "videoSha256": "e160c20323846c14fedfb3f7065dfa32d21eb59ad10ed227d709d138969730f5",
+    "videoBytes": 29838240,
+    "notionPage": "https://app.notion.com/p/41a9e61e50d2810b8df1f46618b56f15",
+    "producedAt": "2026-11-16T23:05:15.491Z"
+  }
+}

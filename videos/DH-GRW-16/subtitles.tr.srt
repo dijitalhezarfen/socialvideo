@@ -1,0 +1,99 @@
+1
+00:00:00,080 --> 00:00:02,400
+Uygulamanıza yüz kişi kayıt oldu.
+
+2
+00:00:02,400 --> 00:00:05,320
+Ertesi hafta sadece on kişi geri döndü.
+
+3
+00:00:05,160 --> 00:00:07,880
+Pazarlama ekibi yeni kayıt sayısını kutluyor.
+
+4
+00:00:07,720 --> 00:00:09,960
+Sizce kutlanacak şey bu mu?
+
+5
+00:00:09,840 --> 00:00:12,120
+Bir yemek tarifi uygulaması düşünün.
+
+6
+00:00:11,960 --> 00:00:14,840
+Kullanıcı telefonunu indiriyor, kayıt oluyor.
+
+7
+00:00:14,760 --> 00:00:17,480
+Sonra karşısına on iki soruluk tercih ekranı
+
+8
+00:00:17,360 --> 00:00:18,280
+çıkıyor.
+
+9
+00:00:18,120 --> 00:00:21,000
+İlk tarife ulaşmak için o kadar uğraşıyor ki
+
+10
+00:00:20,880 --> 00:00:22,440
+uygulamayı kapatıyor.
+
+11
+00:00:22,320 --> 00:00:25,440
+Buradaki sorun retention, yani kullanıcıyı geri
+
+12
+00:00:25,280 --> 00:00:26,680
+getirme olabilir.
+
+13
+00:00:26,613 --> 00:00:29,640
+Hatta ilk değer anı hiç yaşanmamış olabilir.
+
+14
+00:00:29,480 --> 00:00:32,440
+İnsanlar neden geldiklerini unutacak kadar uzun
+
+15
+00:00:32,320 --> 00:00:34,360
+bir karşılama süreci istemez.
+
+16
+00:00:34,200 --> 00:00:37,320
+Bir mağazada müşteriyi içeri alıp raflara ulaşmadan
+
+17
+00:00:37,200 --> 00:00:40,040
+önce uzun formlar doldurtmak gibi düşünün.
+
+18
+00:00:39,920 --> 00:00:42,840
+Önce ilk oturumda kullanıcının gerçek bir sonuç
+
+19
+00:00:42,720 --> 00:00:44,120
+almasını sağlayın.
+
+20
+00:00:44,040 --> 00:00:47,320
+Sonra ilk gün, ilk hafta ve sonraki haftalarda
+
+21
+00:00:47,200 --> 00:00:49,480
+kaç kişinin geri döndüğünü ölçün.
+
+22
+00:00:49,400 --> 00:00:51,960
+Kaybolanlara neden ayrıldıklarını sorun.
+
+23
+00:00:51,840 --> 00:00:54,840
+Kayıt ekranından geçen insan müşteri değildir.
+
+24
+00:00:54,760 --> 00:00:57,720
+Gerçekten fayda gören ve yeniden gelen insan,
+
+25
+00:00:57,600 --> 00:00:59,800
+sağlıklı büyümenin başlangıcıdır.

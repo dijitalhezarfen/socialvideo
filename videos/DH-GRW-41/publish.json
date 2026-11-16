@@ -1,0 +1,52 @@
+{
+  "schema": 1,
+  "id": "DH-GRW-41",
+  "order": 5,
+  "title": "E-Ticarette Upsell ve Cross-Sell Nedir? Sepet Tutarını Nasıl Artırırsınız?",
+  "durationSeconds": 78.4,
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "subtitles": "subtitles.tr.srt",
+  "autoPublish": false,
+  "publishAt": null,
+  "platforms": {
+    "youtube": {
+      "title": "Upsell ve Cross-Sell Nedir? E-Ticarette Sepet Tutarını Artırmanın Yolu",
+      "description": "Reklam parası harcayıp müşteri getiriyorsunuz. Peki aynı müşteriden, daha fazla reklam harcamadan daha yüksek sepet tutarı elde edebilir misiniz?\n\nBu videoda:\n• Cross-sell nedir? Aldığı ürünü tamamlayan başka bir ürün sunarak sepet tutarını artırmak.\n• Upsell nedir? Müşteriyi ihtiyacını daha iyi karşılayan, daha yüksek değerli bir alternatife yönlendirmek.\n• İyi bir mağaza danışmanı gibi: ihtiyaca uygun seçenek gösterin, zorla satmayın.\n• Ortalama sepet tutarı artarken kârı korumak için ürün maliyetini, indirimi ve dönüşüm oranını nasıl takip edersiniz?\n\nÖzet: Büyümek için bazen yeni müşteri bulmak değil, mevcut müşteriye daha doğru bir öneri sunmak gerekir.\n\nNot: Videodaki ürün ve tutarlar tamamen kurgusal bir örnektir. Seslendirme yapay zekâ ile üretilmiş ses klonudur.\n\n#Shorts #Girişimcilik #Pazarlama #Eticaret #Upsell #CrossSell",
+      "tags": [
+        "upsell",
+        "cross-sell",
+        "upsell nedir",
+        "cross-sell nedir",
+        "sepet tutarı",
+        "ortalama sepet tutarı",
+        "e-ticaret",
+        "e-ticaret satış artırma",
+        "girişimcilik",
+        "dijital pazarlama",
+        "dönüşüm oranı",
+        "Dijital Hezarfen"
+      ],
+      "privacyStatus": "public",
+      "madeForKids": false,
+      "containsSyntheticMedia": true
+    },
+    "instagram": {
+      "caption": "Reklam parası harcayıp müşteri getiriyorsunuz. Peki aynı müşteriden, reklam bütçesini artırmadan daha yüksek sepet tutarı alabilir misiniz? 🛒\n\n✅ Cross-sell: Aldığı ürünü tamamlayan ek ürün önerin (ayakkabıya çorap gibi)\n✅ Upsell: İhtiyacını daha iyi karşılayan üst modele yönlendirin\n✅ İyi bir mağaza danışmanı gibi: ihtiyaca uygun önerin, zorla satmayın\n✅ Sepet tutarıyla birlikte ürün maliyetini, indirimi ve dönüşüm oranını takip edin\n\nBazen büyümek için yeni müşteri bulmak değil, mevcut müşteriye daha doğru bir öneri sunmak gerekir.\n\nTutarlar tamamen kurgusal örnektir. Kaydet, mağazanda dene. 📌\n\n#girişimcilik #pazarlama #eticaret #upsell #crosssell #sepettutarı #dijitalhezarfen",
+      "shareToFeed": true,
+      "isAiGenerated": true
+    },
+    "facebook": {
+      "description": "E-ticarette upsell ve cross-sell nedir? Cross-sell, aldığı ürünü tamamlayan başka bir ürün sunmaktır; upsell, müşteriyi ihtiyacını daha iyi karşılayan daha yüksek değerli bir alternatife yönlendirmektir. Doğru kullanıldığında ortalama sepet tutarı artabilir, ama kârlılık için ürün maliyetini, indirimi ve dönüşüm oranını birlikte takip edin. Videodaki tutarlar kurgusaldır."
+    }
+  },
+  "production": {
+    "voice": "ElevenLabs eleven_v4 / Kaan Yeni",
+    "syntheticVoice": true,
+    "audioSha256": "69ee7bdbe960d5c9aa74f00495a05758948aabf1f06678a4a070b6b9051ae3d9",
+    "videoSha256": "55081c83109a6f5a62679b0db0d0ecc7feb2ca6988f7b8760b9578ef470aa163",
+    "videoBytes": 35161636,
+    "notionPage": "https://app.notion.com/p/41a9e61e50d281f7a3edc2dc3ad371d5",
+    "producedAt": "2026-11-16T23:05:16.543Z"
+  }
+}

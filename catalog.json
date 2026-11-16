@@ -8,6 +8,30 @@
       "durationSeconds": 64.5,
       "autoPublish": false,
       "path": "videos/DH-GRW-23"
+    },
+    {
+      "id": "DH-GRW-16",
+      "order": 3,
+      "title": "Kayıt olan 100 kişiden 90'ı neden uygulamanızı bir daha açmıyor?",
+      "durationSeconds": 61.4,
+      "autoPublish": false,
+      "path": "videos/DH-GRW-16"
+    },
+    {
+      "id": "DH-GRW-41",
+      "order": 5,
+      "title": "E-Ticarette Upsell ve Cross-Sell Nedir? Sepet Tutarını Nasıl Artırırsınız?",
+      "durationSeconds": 78.4,
+      "autoPublish": false,
+      "path": "videos/DH-GRW-41"
+    },
+    {
+      "id": "DH-GRW-15",
+      "order": 8,
+      "title": "Ücretsiz kullanıcılar gerçekten zarar mı, yoksa gelecekteki müşterileriniz mi?",
+      "durationSeconds": 64,
+      "autoPublish": false,
+      "path": "videos/DH-GRW-15"
     }
   ]
 }
